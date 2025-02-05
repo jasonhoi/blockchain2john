@@ -1,2 +1,0 @@
-# convert blockchain.info v1 wallet.aes.json to hashcat hash
-python blockchain2john-hashcat.py --base64 wallet.aes.json > wallet.hash
